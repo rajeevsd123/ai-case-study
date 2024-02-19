@@ -192,6 +192,7 @@ Distinctive Features offered by Life Whisperer compared to Competition :
 2.  Faster results for decision making (within 10 secs) for Embryologists
 3.  Upcoming feature - Endometrial Receptivity - AI can analyze transvinal ultrasound images to assist with decision around whether to transfer embryo.
 4. Upcoming - Oocyte grading
+5. Presagen’s patent-pending approach, called [Decentralized AI Training](https://www.presagen.com/news/the-new-face-of-ai-presagens-federated-learning-algorithm-creates-higher-performing-ai-than-traditional-centralized-learning), has AI traveling to the data rather than data traveling to the AI.
 
 What are suggestions for Life Whisprer
 
@@ -200,6 +201,7 @@ Provide comprehensive AI platform for IVF this includes
 - Sperm Analysis and Sperm selection
 - Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period
  
+ Currently, Presagen is using Pytorch. The option could have been Tensoflow. But I could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
 
 
 >“The utility of tools to build AI products is only as good as your ability to target and understand the context in which you’re applying the AI – and how to best do that is an art form,” she explains. “It requires multidisciplinary experience and insight from different types of people in different disciplines to create an effective AI.”
