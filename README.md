@@ -2,7 +2,7 @@
 The field of women’s health has been around for millennia. [Femtech](https://www.mckinsey.com/industries/healthcare/our-insights/the-dawn-of-the-femtech-revolution) is an underserved industry from investment and technology perspective. There is a range of areas such as Fertility , Breast Screening, Female Incident Cancers, Obstreics & Gynacology  where AI can have profound imapact on woman's health outomce. 
 
 Personal experience, especially a traumatic one, can often be a catalyst for striving to make positive change in the world.
-For **Dr Michelle Perugini**, her own struggle with fertility was a motivation for combining her passions for healthcare and Artificial Intelligence (AI) technology to improve pregnancy rates for women undergoing IVF.
+For **Dr Michelle Perugini**, her own struggle with fertility was a motivation for combining her passions for healthcare and Artificial Intelligence (AI) technology to improve pregnancy rates for women undergoing IVF (In vitro fertilisation).
 
 The company she co-founded, [Presagen]( https://www.presagen.com/) alongwith Dr. Don Perugini and Dr. Jonathan Hall in 2016.
 
@@ -36,7 +36,7 @@ There are 3 main types of [fertility treatment:](https://www.nhs.uk/conditions/i
 
         - A minor procedure under sedation uses transvaginal ultrasound to aspirate the follicles and obtain the eggs followed by same day sperm insemination
 
-        - Monitoring embryo growth to determine the optimal day & embryo(s) for transfe
+        - Monitoring embryo (a fertlized egg) growth to determine the optimal day & embryo(s) for transfer
 
     [Difference beteween IUI and IVF](https://www.sart.org/patients/fyi-videos/the-difference-between-iui-and-ivf/)
 
@@ -85,7 +85,7 @@ How ?
 
  Life Whisperer is delivered to clinics via a scalable web-based tool and can be easily accessed on-demand by any clinic globally. 
 
-During the IVF process, eggs are fertilized and develop into embryos. At this point, a clinician (embryologist) needs to decide which embryo to transfer into the patient. Manual selection of embryos is difficult, highly subjective, and limited to what the eye can see down a microscope. Other approaches to selecting embryos include genetic screening (PGS) which is costly, risky, and invasive, or time-lapse imaging which requires specialized hardware and is ineffective in detecting embryo viability.
+During the IVF process, eggs are fertilized and develop into embryos. At this point, a clinician (embryologist) needs to decide which embryo to transfer into the patient. Manual selection of embryos is difficult, highly subjective, and limited to what the eye can see down a microscope. Other approaches to selecting embryos include genetic screening which is costly, risky, and invasive, or time-lapse imaging which requires specialized hardware and is ineffective in detecting embryo viability.
 
  Life Whisperer uses deep learning AI and computer vision to support the clinician to identify the most viable embryo with the highest likelihood of success.
 
@@ -98,30 +98,26 @@ In a recent clinical study of 598 patients Life Whisperer performed over 30% bet
 
 
 **Embryo Evaluation and Selection Process using Life Whisper**
-A blastocyst stage embryo is imaged on Day 5 after IVF
-The image is then drag-and-dropped onto the Life Whisperer website
+A blastocyst (A blastocyst is a cluster of dividing cells made by a fertilized egg.) stage embryo is imaged on Day 5 after IVF.
+The image is then drag-and-dropped onto the Life Whisperer website.
 A sequence of validated AI systems then run. Using object detection, and focusing on different regions of the image, there are two AI scores that are displayed
-In real time, within 10 to 15 seconds, the platform returns a report which helps the doctor select the most viable embryos for implantation. The report also gives patients a window into the assessment process being used to guide their treatment.
+In real time, within 10 to 15 seconds, the platform returns a report which helps the embryologist to select the most viable embryos for implantation. The report also gives patients a window into the assessment process being used to guide their treatment.
 
 Combined use of **two AI algorithms** for evaluating embryo quality
 
-- **Life Whisperer Viability** gives a score, Viability Score, from 0 to 10, which is related to the likelihood the embryo will lead to a clinical pregnancy. This means, a foetal heartbeat is measured at the 6 week ultrasound scan.Each score tells you about the likelihood of a pregnancy. For low scores, there is less chance (but still some chance) of a pregnancy. This is useful for expectation setting and planning with the patient 
+- **Life Whisperer Viability** gives a score, Viability Score, from 0 to 10, which is related to the likelihood the embryo will lead to a clinical pregnancy. This means, a foetal heartbeat is measured at the 6 week ultrasound scan. Each score tells you about the likelihood of a pregnancy. For low scores, there is less chance (but still some chance) of a pregnancy. This is useful for expectation setting and planning with the patient.
 
-    >A high score of 9.1 out of 10 means a 65% chance of pregnancy – the highest chance possible without knowing more about patient factors, such as endometriosis.
+    >A high score of 9.1 out of 10 means a 65% chance of pregnancy.
         
-    Life Whisperer Viability uses a combination of 4 feature classification neural networks. A single image can have some regions that are correlated with high quality, and some with low quality, and the AI takes this all into account to give a statistically reliable score
+    Life Whisperer Viability uses a combination of 4 features classification neural networks. A single image can have some regions that are correlated with high quality, and some with low quality, and the AI takes this all into account to give a statistically reliable score.
 
-- **Life Whisperer Genetics** gives a separate score, Euploid score, from 0 to 10, which is related to the likelihood that the embryo has high genetic integrity, meaning it has the correct number of chromosomes, or is “euploid”. This technology is objective, is able to run instantly, and is completely non-invasive, unlike biopsies.
+- **Life Whisperer Genetics** gives a separate score, Euploid (An embryo that contains a normal number of chromosomes is a 'euploid' embryo) score, from 0 to 10, which is related to the likelihood that the embryo has high genetic integrity, meaning it has the correct number of chromosomes, or is “euploid”. This technology is objective, is able to run instantly, and is completely non-invasive, unlike biopsies.
 
-    >Low scoring embryos have a much higher likelihood of aneuploidy – these embryos are riskier to transfer, carrying a higher likelihood of disease or miscarriage. This is useful for counselling the patient, planning for risks and potentially considering further genetic testing to learn more. 
+    >Low scoring embryos have a much higher likelihood of aneuploidy (An embryo that carries an abnormal number of chromosomes is 'aneuploid')– these embryos are riskier to transfer, carrying a higher likelihood of disease or miscarriage. This is useful for counselling the patient, planning for risks and potentially considering further genetic testing to learn more. 
 
-    Life Whisperer Genetics, uses a combination of 3 feature classification neural networks. It also looks at features that correspond to aneuploidy even though this embryo was likely to be a euploid.
-
+    Life Whisperer Genetics, uses a combination of 3 features classification neural networks. It also looks at features that correspond to aneuploidy even though this embryo was likely to be a euploid.
+ 
     
-    
-    It can also rank order embryos to minimize the time to a first pregnancy by 12%, compared to manual grading methods, preserving morale that all-too-often can result in patients dropping out of their therapies. 
-
-    Looking across many patients’ groups of embryos, the probability the top embryo is a euploid was found to be 82%.
 
 This study is important for the IVF industry for two reasons. Firstly, it suggests that embryo quality is a function of both viability and genetic integrity, and that these provide overlapping but distinct information regarding pregnancy. Using both AI algorithms together achieves the best results.
 
@@ -148,7 +144,6 @@ Metrics :
 
 [Life Whisperer Genetics](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) -  Sensitivity for euploid embryos ~65-95%
 
-[Limitation, Reasons for Caution :](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7192535/) The AI model developed here is limited to analysis of Day 5 embryos; therefore, further evaluation or modification of the model is needed to incorporate information from different time points. The endpoint described is clinical pregnancy as measured by fetal heartbeat, and this does not indicate the probability of live birth. 
 
  [25 % incereased accuracy for preganacy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphogial grading 
                      
@@ -171,9 +166,9 @@ Metrics :
 
 - Higher revenue potential through by servicing more patients - increased success and effiency
 
-Benefits for Patients : Driving Paitent Transperancy
+Benefits for Patients : Driving Patient Transperancy
 
-- Helps build transperancy with Patients around transfer decisions
+- Helps build transperancy with Patients around embryo transfer decisions
 
 - Reduced number of IVF cycles
 
@@ -184,29 +179,30 @@ Benefits for Patients : Driving Paitent Transperancy
 
 **What other Competitavie Products are offering (not offered by Life Whsiperer)?**
 
-AIVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction*
+AIVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction
+
 Faritility - Chole (Cultivating Human Life through Optimal Embryos) - Multiple embryo transfer pregnancy prediction
 
-Distinctive Features offered by Life Whisperer compared to Competition :
+**Distinctive Features offered by Life Whisperer compared to Competition :**
 1.  Gentics AI Score (except Alife) 
 2.  Faster results for decision making (within 10 secs) for Embryologists
-3.  Upcoming feature - Endometrial Receptivity - AI can analyze transvinal ultrasound images to assist with decision around whether to transfer embryo.
-4. Upcoming - Oocyte grading
+3.  Upcoming feature - Endometrial Receptivity - AI can analyze transvaginal ultrasound images to assist with decision around whether to transfer embryo.
+4. Upcoming - Oocyte (An oocyte is an immature egg) grading
 5. Presagen’s patent-pending approach, called [Decentralized AI Training](https://www.presagen.com/news/the-new-face-of-ai-presagens-federated-learning-algorithm-creates-higher-performing-ai-than-traditional-centralized-learning), has AI traveling to the data rather than data traveling to the AI.
 
-What are suggestions for Life Whisprer
+**What are suggestions for Life Whisperer**
 
 Provide comprehensive AI platform for IVF this includes
 - Planning and Preparing Patients for IVF
 - Sperm Analysis and Sperm selection
 - Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period
  
- Currently, Presagen is using Pytorch. The option could have been Tensoflow. But I could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
+ Currently, Presagen is using Pytorch. The other option could have been Tensoflow. But I could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
 
 
->“The utility of tools to build AI products is only as good as your ability to target and understand the context in which you’re applying the AI – and how to best do that is an art form,” she explains. “It requires multidisciplinary experience and insight from different types of people in different disciplines to create an effective AI.”
+In the end,the utility of tools to build AI products is only as good as your ability to target and understand the context in which you’re applying the AI – and how to best do that is an art form.
 
->In the end however, Michelle Perugini says that AI is not all science — it also requires art.
+> Dr. Michelle Perugini says that "AI is not all science — it also requires art".
 
 -----------------------
 
