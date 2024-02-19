@@ -131,30 +131,30 @@ Computer Vision AI is objective, non-invasive, and has improved performance comp
 
 **Technology**
 
-To build the Life Whisperer machine learning algorithm, Presagen used Pytorch on AWS for deep learning and Amazon EC2 and AWS Fargate for AI training and inference. The algorithm analyzed thousands of embryo images taken from actual IVF cycles, both successful and unsuccessful. 
+To build the Life Whisperer machine learning algorithm, Presagen used [Pytorch on AWS for deep learning and Amazon EC2 and AWS Fargate for AI training and inference](https://www.lifewhisperer.com/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/). The algorithm analyzed thousands of embryo images taken from actual IVF cycles, both successful and unsuccessful. 
 The information was extracted from Presagen’s globally linked clinical data platform in the AWS cloud, which securely stores data from clinics around the world.
 With a distributed cloud solution, the AWS cloud offers a secure, reliable, and accessible platform with the massive amounts of computing power it takes to deliver the system in practice.
 
 
 
 
-Metrics :
+**Metrics :**
 
-[Life Whisperer Viability](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) - Sensitivity for viable embryos ~70-90%
+1. [Life Whisperer Viability](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) - Sensitivity for viable embryos ~70-90%
 
-[Life Whisperer Genetics](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) -  Sensitivity for euploid embryos ~65-95%
+2. [Life Whisperer Genetics](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) -  Sensitivity for euploid embryos ~65-95%
 
 
- [25 % incereased accuracy for preganacy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphogial grading 
+ 3. [25 % incereased accuracy for preganacy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphogial grading 
                      
 
-[12% reduction in cycles to acheiver preganancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological greading using novel simulated cohort ranking method.
+4. [12% reduction in cycles to acheiver preganancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological greading using novel simulated cohort ranking method.
 
-[82% Probability of selecting  a genetically normal embryo](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) which was 26.4% more effective than using random ranking, and ∼13–19% more effective than using the Gardner score. 
+5. [82% Probability of selecting  a genetically normal embryo](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) which was 26.4% more effective than using random ranking, and ∼13–19% more effective than using the Gardner score. 
 
-[Life Whisper Genetics is predctive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an AUC/ROC of 0.69. 
+6. [Life Whisper Genetics is predctive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an AUC/ROC of 0.69. 
 
-[**Combined** use of Viability and Gentics AI can **double the reduction in time to pregrancy**](https://www.fertstert.org/article/S0015-0282(22)00861-5/fulltext)
+7. [**Combined** use of Viability and Gentics AI can **double the reduction in time to pregrancy**](https://www.fertstert.org/article/S0015-0282(22)00861-5/fulltext)
 
 **Life Whsisperer: Commecial benefits**
 
@@ -197,7 +197,8 @@ Provide comprehensive AI platform for IVF this includes
 - Sperm Analysis and Sperm selection
 - Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period
  
- Currently, Presagen is using Pytorch. The other option could have been Tensoflow. But I could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
+ Currently, Presagen is using Pytorch. The other option could have been Tensoflow. [Compared Tesnsorflow with Pytorch](https://viso.ai/deep-learning/pytorch-vs-tensorflow/#:~:text=In%20general%2C%20TensorFlow%20and%20PyTorch,needed%20in%20the%20neural%20network.), but could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
+ 
 
 
 In the end,the utility of tools to build AI products is only as good as your ability to target and understand the context in which you’re applying the AI – and how to best do that is an art form.
@@ -206,4 +207,19 @@ In the end,the utility of tools to build AI products is only as good as your abi
 
 -----------------------
 
+**References :**
+- [Development of an artificial intelligence-based assessment model for prediction of embryo viability using static images captured by optical light microscopy during IVF](https://ncbi.nlm.nih.gov/pmc/articles/PMC7192535/)
 
+- [Life Whisperer Genetics AI launches in the USA: Revolutionizing Embryo Euploidy Assessment with Non-Invasive, Instant, and Affordable Technology](https://www.prnewswire.com/news-releases/life-whisperer-genetics-ai-launches-in-the-usa-revolutionizing-embryo-euploidy-assessment-with-non-invasive-instant-and-affordable-technology-301954754.html)
+
+- [ISAR Presentation: AI Enhanced Fertility](https://www.lifewhisperer.com/isar-presentation-ai-enhanced-fertility/)
+
+- [FUJIFILM Irvine Scientific Webinar at ESHRE: Global Perspectives on Bringing AI to Life in your IVF Workflow](https://www.lifewhisperer.com/fujifilm-irvine-scientific-webinar-at-eshre-global-perspectives-on-bringing-ai-to-life-in-your-ivf-workflow/)
+
+- [Embryo selection with artificial intelligence: how to evaluate and compare methods?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8324599/)
+- [Crunchbase Presagen](https://www.crunchbase.com/organization/presagen/company_financials)
+
+-   [Will Artificial Intelligence Change the Future of IVF?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9666597/#B1)
+
+- [Artificial intelligence (AI) technology can predict human embryo viability across multiple laboratories with varying demographics with high accuracy and reproducibility.](https://www.eshre.eu/cmsearchableprogrammeV15/conferencemanager/programme/personid/anonymous/VIE2019/industry/0b043bad6d30b7641c8df4bb4ba50591f39d2bfe#!abstractdetails/0000571500)
+ -[]
