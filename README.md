@@ -207,7 +207,7 @@ In the end,the utility of tools to build AI products is only as good as your abi
 
 -----------------------
 
-**References :**
+**Additional References :**
 - [Development of an artificial intelligence-based assessment model for prediction of embryo viability using static images captured by optical light microscopy during IVF](https://ncbi.nlm.nih.gov/pmc/articles/PMC7192535/)
 
 - [Life Whisperer Genetics AI launches in the USA: Revolutionizing Embryo Euploidy Assessment with Non-Invasive, Instant, and Affordable Technology](https://www.prnewswire.com/news-releases/life-whisperer-genetics-ai-launches-in-the-usa-revolutionizing-embryo-euploidy-assessment-with-non-invasive-instant-and-affordable-technology-301954754.html)
@@ -222,4 +222,5 @@ In the end,the utility of tools to build AI products is only as good as your abi
 -   [Will Artificial Intelligence Change the Future of IVF?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9666597/#B1)
 
 - [Artificial intelligence (AI) technology can predict human embryo viability across multiple laboratories with varying demographics with high accuracy and reproducibility.](https://www.eshre.eu/cmsearchableprogrammeV15/conferencemanager/programme/personid/anonymous/VIE2019/industry/0b043bad6d30b7641c8df4bb4ba50591f39d2bfe#!abstractdetails/0000571500)
- -[]
+
+- [Podcast interview with Dr Michelle Perugini](https://www.experienceadelaide.com.au/blog/michelle-perugini-podcast-cv/)
