@@ -1,10 +1,10 @@
 # Presagen  - AI Enhance Healthcare
-The field of women’s health has been around for millennia. [Femtech](https://www.mckinsey.com/industries/healthcare/our-insights/the-dawn-of-the-femtech-revolution) is an underserved industry from investment and technology perspective. There is a range of areas such as Fertility , Breast Screening, Female Incident Cancers, Obstreics & Gynacology  where AI can have profound imapact on woman's health outomce. 
+The field of women’s health has been around for millennia. [Femtech](https://www.mckinsey.com/industries/healthcare/our-insights/the-dawn-of-the-femtech-revolution) is an underserved industry from investment and technology perspective. There is a range of areas such as Fertility , Breast Screening, Female Incident Cancers, Obstetrics & Gynecology   where AI can have profound impact on woman's health outcome. 
 
 Personal experience, especially a traumatic one, can often be a catalyst for striving to make positive change in the world.
-For **Dr Michelle Perugini**, her own struggle with fertility was a motivation for combining her passions for healthcare and Artificial Intelligence (AI) technology to improve pregnancy rates for women undergoing IVF (In vitro fertilisation).
+For **Dr Michelle Perugini**, her own struggle with fertility was a motivation for combining her passions for healthcare and Artificial Intelligence (AI) technology to improve pregnancy rates for women undergoing IVF (In Vitro Fertilization).
 
-The company she co-founded, [Presagen]( https://www.presagen.com/) alongwith Dr. Don Perugini and Dr. Jonathan Hall in 2016.
+The company she co-founded, [Presagen]( https://www.presagen.com/) along with Dr. Don Perugini and Dr. Jonathan Hall in 2016.
 
 Presagen has raised a total of $5.5M in funding over 3 rounds. Their latest funding was raised on Aug 1, 2021 from a Seed round.
  Presagen is funded by 3 investors. Morgan Stanley and Jungle Capital are the most recent investors. The third investor is 3Lines.
@@ -29,22 +29,22 @@ There are 3 main types of [fertility treatment:](https://www.nhs.uk/conditions/i
 
 - Surgical procedures
 
--   Asisted conception –
+-   Assisted conception –
     - Intrauterine Insemination (IUI)
 
         IUI is a simple office procedure that places sperm, collected from the partner and processed in the laboratory, into the uterine cavity
 
-    - In Vitro Fertilisation (IVF)
+    - In Vitro Fertilization (IVF)
 
-        - A form of [ART](https://www.cdc.gov/art/index.htm) (assisted reproductive technology) in which a man’s sperm and a woman’s eggs are combined outside of the body in a laboratory dish
+        - A form of [ART](https://www.cdc.gov/art/index.htm) (assisted reproductive technology) in which a man’s sperm and a woman’s eggs are combined outside of the body in a laboratory dish.
 
-        - A woman receives medications to stimulate her ovaries to develop multiple follicles with eggs
+        - A woman receives medications to stimulate her ovaries to develop multiple follicles with eggs.
 
-        - A minor procedure under sedation uses transvaginal ultrasound to aspirate the follicles and obtain the eggs followed by same day sperm insemination
+        - A minor procedure under sedation uses transvaginal ultrasound to aspirate the follicles and obtain the eggs followed by same day sperm insemination.
 
-        - Monitoring embryo (a fertlized egg) growth to determine the optimal day & embryo(s) for transfer
+        - Monitoring embryo (a fertilized egg) growth to determine the optimal day & embryo(s) for transfer.
 
-    [Difference beteween IUI and IVF](https://www.sart.org/patients/fyi-videos/the-difference-between-iui-and-ivf/)
+    [Difference between IUI and IVF](https://www.sart.org/patients/fyi-videos/the-difference-between-iui-and-ivf/)
 
 One in four couples in developing countries is impacted by infertility. About 48.5 million couples experience infertility worldwide. [Today, infertility is rapidly becoming an epidemic.](https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/?sh=709941bb7330)
 
@@ -52,11 +52,11 @@ The global [In vitro fertilization market size](https://www.grandviewresearch.co
 
 Although IVF has been a widely used technique for over four decades, its outcomes remain unpredictable. Furthermore, access to fertility care remains dishearteningly low. In developed markets such as the United States, only 2% of individuals grappling with infertility have used IVF as a solution.
 
-**Challagnes with IVF**
+**Challegnes with IVF**
 
 > When we had our first cycle of IVF we just assumed it would work. You read all those 'miracle baby' stories in the media but you rarely hear about the people who weren't successful.
 
-- **Decision making about embryos, their disposition** : Currently, an embryologist uses a standard grading system to assess the appearance of each embryo under the microscope. Two embryologists could score an embryo differently based on their experience. Different systems had previously been proposed to refine this but, so far, none of them has significantly improved embryo selection.
+- **Decision making about embryos, their disposition**: Currently, an embryologist uses a standard grading system to assess the appearance of each embryo under the microscope. Two embryologists could score an embryo differently based on their experience. Different systems had previously been proposed to refine this but, so far, none of them has significantly improved embryo selection.
     >“There is no real standardization of embryo assessment,” says Dr. Nikica Zaninovic, the director of the embryology lab at Weill Cornell Medicine
 
 -   **Increased Risk of multiple pregnancies**: [Multiple births](https://www.cdc.gov/art/key-findings/multiple-births.html#:~:text=Multiple%20births%E2%80%94the%20delivery%20of,one%20embryo%20during%20the%20procedure.) primarily result from transfer of more than one embryo during the procedure
@@ -68,7 +68,7 @@ Although IVF has been a widely used technique for over four decades, its outcome
 
 - An IVF cycle involves stimulating the ovaries with hormones, retrieving eggs, fertilizing those eggs with sperm in a lab and then transferring the resulting embryo or embryos to the uterus. One cycle can take several weeks and runs $12,000 on average before the cost of medications. For a lot of patients, it’s ***Cost-Prohibitive*** to have multiple cycles.
 
-- Mutliple cyclyes makes the process can be **time-consuming, [emotionally exhausting.](https://www.sart.org/patients/a-patients-guide-to-assisted-reproductive-technology/general-information/preparing-for-ivf-emotional-considerations/)**
+- Multiple cycles makes the process can be **time-consuming, [emotionally exhausting.](https://www.sart.org/patients/a-patients-guide-to-assisted-reproductive-technology/general-information/preparing-for-ivf-emotional-considerations/)**
 
     >Patients have rated the stress of undergoing IVF as more stressful than or almost as stressful as any other major life event, such as the death of a family member or separation or divorce. 
 
@@ -81,11 +81,11 @@ Life Whisperer is a world-leader in the application of AI in IVF. The Life Whisp
 
 **Life Whisperer is being used in IVF clinics around the world.**
 
-Presagen has a unique model of engagement whereby it co-creates AI software with a global co-operative cohort of data contributors, such as medical and research institutes. The Presagen platform ensures that each medical institute’s data safely remains local and isolated in the country or region of origin. AI that is developed is then commercialised by Presagen using its pre-built drag and drop, cloud-based patient diagnostics application, providing a way for those data contributors to monetise their data through ongoing revenue sharing from the commercial success of the product.  
+Presagen has a unique model of engagement whereby it co-creates AI software with a global co-operative cohort of data contributors, such as medical and research institutes. The Presagen platform ensures that each medical institute’s data safely remains local and isolated in the country or region of origin. AI that is developed is then commercialized by Presagen using its pre-built drag and drop, cloud-based patient diagnostics application, providing a way for those data contributors to monetize their data through ongoing revenue sharing from the commercial success of the product.  
 
->Presagen Co-Founder Dr Don Perugini says “this is our way of mobilising data for the benefit of both institutes and patients that would otherwise remain in the clutches of individual institutes where it is of little value. This allows us to create effective AI and share back the value with data contributors whilst solving critical image-based medical diagnostics problems.” 
+>Presagen Co-Founder Dr Don Perugini says “this is our way of mobilizing data for the benefit of both institutes and patients that would otherwise remain in the clutches of individual institutes where it is of little value. This allows us to create effective AI and share back the value with data contributors whilst solving critical image-based medical diagnostics problems.” 
 
-**How ?**
+**How?**
 
  Life Whisperer is delivered to clinics via a scalable web-based tool and can be easily accessed on-demand by any clinic globally. 
 
@@ -110,7 +110,7 @@ In real time, within 10 to 15 seconds, the platform returns a report which helps
 
 Combined use of **[two AI algorithms](https://www.lifewhisperer.com/combined-use-of-two-ai-algorithms-for-evaluating-embryo-quality-improves-selection-of-embryos-leading-to-clinical-pregnancy/)** for evaluating embryo quality
 
-- **Life Whisperer Viability** gives a score, Viability Score, from 0 to 10, which is related to the likelihood the embryo will lead to a clinical pregnancy. This means, a foetal heartbeat is measured at the 6 week ultrasound scan. Each score tells you about the likelihood of a pregnancy. For low scores, there is less chance (but still some chance) of a pregnancy. This is useful for expectation setting and planning with the patient.
+- **Life Whisperer Viability** gives a score, Viability Score, from 0 to 10, which is related to the likelihood the embryo will lead to a clinical pregnancy. This means, a fetal heartbeat is measured at the 6 week ultrasound scan. Each score tells you about the likelihood of a pregnancy. For low scores, there is less chance (but still some chance) of a pregnancy. This is useful for expectation setting and planning with the patient.
 
     >A high score of 9.1 out of 10 means a 65% chance of pregnancy.
         
@@ -120,7 +120,7 @@ Combined use of **[two AI algorithms](https://www.lifewhisperer.com/combined-use
 
     >Low scoring embryos have a much higher likelihood of aneuploidy (An embryo that carries an abnormal number of chromosomes is 'aneuploid')– these embryos are riskier to transfer, carrying a higher likelihood of disease or miscarriage. This is useful for counselling the patient, planning for risks and potentially considering further genetic testing to learn more. 
 
-    Life Whisperer Genetics, uses a combination of 3 features classification neural networks. It also looks at features that correspond to aneuploidy even though this embryo was likely to be a euploid.
+    Life Whisperer Genetics uses a combination of 3 features classification neural networks. It also looks at features that correspond to aneuploidy even though this embryo was likely to be a euploid.
  
     
 
@@ -145,22 +145,22 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 **Metrics :**
 
-**Life Whsiperer**
+**Life Whisperer**
 1. [Life Whisperer Viability](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) - Sensitivity for viable embryos ~70-90%
 
 2. [Life Whisperer Genetics](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) -  Sensitivity for euploid embryos ~65-95%
 
 
- 3. [25 % incereased accuracy for preganacy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphogial grading.
+ 3. [25 % increased accuracy for pregnancy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphological grading.
                      
 
-4. [12% reduction in cycles to acheiver preganancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological greading using novel simulated cohort ranking method.
+4. [12% reduction in cycles to acheive pregnancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological grading using novel simulated cohort ranking method.
 
 5. [82% Probability of selecting  a genetically normal embryo](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) which was 26.4% more effective than using random ranking, and ∼13–19% more effective than using the Gardner score. 
 
-6. [Life Whisper Genetics is predctive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an [AUC/ROC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=AUC%20stands%20for%20%22Area%20under,across%20all%20possible%20classification%20thresholds.) of 0.69. 
+6. [Life Whisper Genetics is predictive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an [AUC/ROC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=AUC%20stands%20for%20%22Area%20under,across%20all%20possible%20classification%20thresholds.) of 0.69. 
 
-7. [**Combined** use of Viability and Gentics AI can **double the reduction in time to pregrancy**](https://www.fertstert.org/article/S0015-0282(22)00861-5/fulltext)
+7. [**Combined** use of Viability and Genetics AI can **double the reduction in time to pregnancy**](https://www.fertstert.org/article/S0015-0282(22)00861-5/fulltext)
 
 **AiVF**
 1. [The accuracy of EMA](https://aivf.co/wp-content/uploads/2023/07/Fertility-2023-AIVF-Abstracts.pdf) (EMA by AiVF an AI-powered platform), which uses a convolutional neural network (CNN) with ResNet50 backbone to assess embryo quality and developmental competence, AUC value is 0.62.
@@ -168,8 +168,8 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 **Fairtility**
 1. [Blastocyst prediction accuracy of 96% and 73% prediction accuracy for implantation prediction](https://info.fairtility.com/hubfs/Abstract%20Book/Fairtility%20Abstract%20Book%208.0%20October%2025th.pdf).
-2. Increases Embroyologist's efficency by 33%.
-3. Increases capacity of Cycles embryoligist can treat by 50%.
+2. Increases embryologist's efficiency by 33%.
+3. Increases capacity of Cycles embryologist  can treat by 50%.
 4. Reduction of 41% of time required per cycle.
 
 **ALife**
@@ -186,21 +186,21 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
    
 
 
-**Life Whsisperer Benefits**
+**Life Whisperer Benefits**
 
-**Commecial benefits for Clincs**:
+**Commercial benefits for Clincs**:
 
-- Cost Saving from improved lab effiency and standardization.
+- Cost Saving from improved lab efficiency and standardization.
 
 - Reduction in time to pregnancy for patients - allowing risk based pricing model.
 
 - Increased patient demands through better success rates.
 
-- Higher revenue potential through by servicing more patients - increased success and effiency.
+- Higher revenue potential through by servicing more patients - increased success and efficiency.
 
 **Benefits for Patients : Driving Patient Transperancy**
 
-- Helps build transperancy with Patients around embryo transfer decisions
+- Helps build transparency with patients around embryo transfer decisions
 
 - Reduced number of IVF cycles
 
@@ -209,16 +209,16 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 
 
-**What other Companies are offering (not offered by Life Whsiperer)?**
+**What other Companies are offering (not offered by Life Whisperer)?**
 
 AiVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction.
 
 Faritility - Chole (Cultivating Human Life through Optimal Embryos) - Multiple embryo transfer pregnancy prediction.
 
-ALife - % IVF Sucess Prdiction Calculator. 
+ALife - % IVF Success Prediction Calculator. 
 
 **Distinctive Features offered by Life Whisperer compared to Ohter Companies :**
-1.  Gentics AI Score (except Alife) 
+1.  Genetics AI Score (except Alife) 
 2.  Faster results for decision making (within 10 secs) for Embryologists.
 3.  Upcoming feature - Endometrial Receptivity - AI can analyze transvaginal ultrasound images to assist with decision around whether to transfer embryo.
 4. Upcoming - Oocyte (An oocyte is an immature egg) grading
@@ -231,7 +231,7 @@ Provide comprehensive AI platform for IVF this includes
 - Sperm Analysis and Sperm selection.
 - Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period.
  
- Currently, Presagen is using Pytorch. The other option could have been Tensoflow. [Compared Tesnsorflow with Pytorch](https://viso.ai/deep-learning/pytorch-vs-tensorflow/#:~:text=In%20general%2C%20TensorFlow%20and%20PyTorch,needed%20in%20the%20neural%20network.), but could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
+ Currently, Presagen is using Pytorch. The other option could have been Tensorflow. [Compared Tesnsorflow with Pytorch](https://viso.ai/deep-learning/pytorch-vs-tensorflow/#:~:text=In%20general%2C%20TensorFlow%20and%20PyTorch,needed%20in%20the%20neural%20network.), but could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
  
 
 
