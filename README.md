@@ -52,7 +52,7 @@ The global [In vitro fertilization market size](https://www.grandviewresearch.co
 
 Although IVF has been a widely used technique for over four decades, its outcomes remain unpredictable. Furthermore, access to fertility care remains dishearteningly low. In developed markets such as the United States, only 2% of individuals grappling with infertility have used IVF as a solution.
 
-**Challegnes with IVF**
+**Challengnes with IVF**
 
 > When we had our first cycle of IVF we just assumed it would work. You read all those 'miracle baby' stories in the media but you rarely hear about the people who weren't successful.
 
@@ -154,7 +154,7 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
  3. [25 % increased accuracy for pregnancy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphological grading.
                      
 
-4. [12% reduction in cycles to acheive pregnancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological grading using novel simulated cohort ranking method.
+4. [12% reduction in cycles to achieve pregnancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological grading using novel simulated cohort ranking method.
 
 5. [82% Probability of selecting  a genetically normal embryo](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) which was 26.4% more effective than using random ranking, and ∼13–19% more effective than using the Gardner score. 
 
@@ -198,7 +198,7 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 - Higher revenue potential through by servicing more patients - increased success and efficiency.
 
-**Benefits for Patients : Driving Patient Transperancy**
+**Benefits for Patients : Driving Patient Transparency**
 
 - Helps build transparency with patients around embryo transfer decisions
 
@@ -262,4 +262,3 @@ In the end, the utility of tools to build AI products is only as good as your ab
 - [Podcast interview with Dr Michelle Perugini](https://www.experienceadelaide.com.au/blog/michelle-perugini-podcast-cv/)
 
 -  [The Lancet Digital Health - Enhancing the success of IVF with artificial intelligence](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00235-7/fulltext)
-
