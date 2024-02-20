@@ -259,3 +259,6 @@ In the end, the utility of tools to build AI products is only as good as your ab
 - [Sensitivity analysis of an embryo grading artificial intelligence model](https://academic.oup.com/humrep/article/37/Supplement_1/deac107.166/6620106?searchresult=1&login=false)
 
 - [Podcast interview with Dr Michelle Perugini](https://www.experienceadelaide.com.au/blog/michelle-perugini-podcast-cv/)
+
+-   [The Lancet Digital Health - Enhancing the success of IVF with artificial intelligence](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00235-7/fulltext)
+
