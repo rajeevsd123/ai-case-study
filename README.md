@@ -7,7 +7,7 @@ For **Dr Michelle Perugini**, her own struggle with fertility was a motivation f
 The company she co-founded, [Presagen]( https://www.presagen.com/) alongwith Dr. Don Perugini and Dr. Jonathan Hall in 2016.
 
 Presagen has raised a total of $5.5M in funding over 3 rounds. Their latest funding was raised on Aug 1, 2021 from a Seed round.
-Presagen is funded by 3 investors. Morgan Stanley and Jungle Capital are the most recent investors. The third investor is 3Lines.
+ Presagen is funded by 3 investors. Morgan Stanley and Jungle Capital are the most recent investors. The third investor is 3Lines.
 
 [Life Whisperer]( https://www.lifewhisperer.com/) is subsidiary of Presagen  has raised a total of $4.5M in funding over 1 round. This was a Seed round raised on Nov 6, 2018.
 Life Whisperer is funded by 3 investors. 3Lines and Department of State Development South Australia are the most recent investors.
@@ -18,9 +18,9 @@ The other major companies in the field are [AiVF](https://aivf.co/), [Fairtility
 
 - **AiVF** has raised $25M. AiVF has 2 investors including 166 2nd Financial Services and Insight Partners. AiVF closed its last funding round on Jun 22, 2022 from a Series A round. Founded in 2018 (Israel)
 
- - **Fairtility** has raised $18.5M. Fairtility has 2 investors including Nacre Capital and Gurnet Point Capital.Fairtility closed its last funding round on May 23, 2022 from a Series A. Founded in 2019 (Israel)
+ - **Fairtility** has raised $18.5M. Fairtility has 2 investors including Nacre Capital and Gurnet Point Capital. Fairtility closed its last funding round on May 23, 2022 from a Series A. Founded in 2019 (Israel)
 
-- **Alife** has raised $31.5M.Alife closed its last funding round on Mar 22, 2022 from a Series A round. Alife has 13 investors including Farvatn Venture and Union Square Ventures. Founded in 2020 (USA)
+- **Alife** has raised $31.5M. Alife closed its last funding round on Mar 22, 2022 from a Series A round. Alife has 13 investors including Farvatn Venture and Union Square Ventures. Founded in 2020 (USA)
 
 The field of fertility treatments is experiencing a surge in demand, fueled by several significant factors. A shift towards starting families at a later age, the increasing number of same-sex couples seeking assistance, and concerning studies revealing a decline in male fertility are all contributing to this trend. According to the [Pew Research Center](https://www.pewresearch.org/short-reads/2018/07/17/a-third-of-u-s-adults-say-they-have-used-fertility-treatments-or-know-someone-who-has/), the use of fertility treatments to assist with the birth process in the US has more than tripled from 1996 to 2015.
 
@@ -48,7 +48,7 @@ There are 3 main types of [fertility treatment:](https://www.nhs.uk/conditions/i
 
 One in four couples in developing countries is impacted by infertility. About 48.5 million couples experience infertility worldwide. [Today, infertility is rapidly becoming an epidemic.](https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/?sh=709941bb7330)
 
-The global In vitro [fertilization market size](https://www.grandviewresearch.com/industry-analysis/in-vitro-fertilization-market) was valued at USD 25.3 billion in 2023 and is expected to grow at a compound annual growth rate (CAGR) of 5.54% from 2024 to 2030 
+The global [In vitro fertilization market size](https://www.grandviewresearch.com/industry-analysis/in-vitro-fertilization-market) was valued at USD 25.3 billion in 2023 and is expected to grow at a compound annual growth rate (CAGR) of 5.54% from 2024 to 2030 
 
 Although IVF has been a widely used technique for over four decades, its outcomes remain unpredictable. Furthermore, access to fertility care remains dishearteningly low. In developed markets such as the United States, only 2% of individuals grappling with infertility have used IVF as a solution.
 
@@ -59,16 +59,14 @@ Although IVF has been a widely used technique for over four decades, its outcome
 - **Decision making about embryos, their disposition** : Currently, an embryologist uses a standard grading system to assess the appearance of each embryo under the microscope. Two embryologists could score an embryo differently based on their experience. Different systems had previously been proposed to refine this but, so far, none of them has significantly improved embryo selection.
     >“There is no real standardization of embryo assessment,” says Dr. Nikica Zaninovic, the director of the embryology lab at Weill Cornell Medicine
 
--   **Incrrease Risk of multiple pregnancies**: [Multiple births](https://www.cdc.gov/art/key-findings/multiple-births.html#:~:text=Multiple%20births%E2%80%94the%20delivery%20of,one%20embryo%20during%20the%20procedure.) primarily result from transfer of more than one embryo during the procedure
+-   **Increased Risk of multiple pregnancies**: [Multiple births](https://www.cdc.gov/art/key-findings/multiple-births.html#:~:text=Multiple%20births%E2%80%94the%20delivery%20of,one%20embryo%20during%20the%20procedure.) primarily result from transfer of more than one embryo during the procedure
 
 - **Low Success rate**:
-        - Live births per first embryo transfer is 41.4% as per [SART](https://www.sartcorsonline.com/rptCSR_PublicMultYear.aspx)
-       - 
-       - Currently, birth rates from IVF vary widely, from 31% for women age 35 and under to around 3% for women age 42 and older when using fresh embryos, according to the Centers for Disease Control and Prevention [CDC](https://nccd.cdc.gov/drh_art/rdPage.aspx?rdReport=DRH_ART.ClinicInfo&rdRequestForward=True&ClinicId=9999&ShowNational=1)
+        - Live births per first embryo transfer is 41.4% as per [SART](https://www.sartcorsonline.com/rptCSR_PublicMultYear.aspx). Currently, birth rates from IVF vary widely, from 31% for women age 35 and under to around 3% for women age 42 and older when using fresh embryos, according to the Centers for Disease Control and Prevention [CDC](https://nccd.cdc.gov/drh_art/rdPage.aspx?rdReport=DRH_ART.ClinicInfo&rdRequestForward=True&ClinicId=9999&ShowNational=1)
        
 - Due to low success rate, many women ultimately have to go through **multiple rounds of IVF**.
 
-- An IVF cycle involves stimulating the ovaries with hormones, retrieving eggs, fertilizing those eggs with sperm in a lab and then transferring the resulting embryo or embryos to the uterus. One cycle can take several weeks and runs $12,000 on average before the cost of medications. For a lot of patients, it’s ***Cost-Prohibitive*** to have multiple cycles
+- An IVF cycle involves stimulating the ovaries with hormones, retrieving eggs, fertilizing those eggs with sperm in a lab and then transferring the resulting embryo or embryos to the uterus. One cycle can take several weeks and runs $12,000 on average before the cost of medications. For a lot of patients, it’s ***Cost-Prohibitive*** to have multiple cycles.
 
 - Mutliple cyclyes makes the process can be **time-consuming, [emotionally exhausting.](https://www.sart.org/patients/a-patients-guide-to-assisted-reproductive-technology/general-information/preparing-for-ivf-emotional-considerations/)**
 
@@ -77,7 +75,7 @@ Although IVF has been a widely used technique for over four decades, its outcome
 
 
 
-With a focus on improving Women's Health outcomes globally, Presagen's first product, Life Whisperer, is being used by IVF clinics globally to improve pregnancy outcomes for couples struggling with fertility. With a vision of creating the largest network of clinics, patients, and medical data from around the world, Presagen is driving the future of AI Enhanced Healthcare.
+With a focus on improving Women's Health outcomes globally, Presagen's first product, **Life Whisperer**, is being used by IVF clinics globally to improve pregnancy outcomes for couples struggling with fertility. With a vision of creating the largest network of clinics, patients, and medical data from around the world, Presagen is driving the future of AI Enhanced Healthcare.
 
 Life Whisperer is a world-leader in the application of AI in IVF. The Life Whisperer Genetics AI-based embryo assessment tool is the first to be commercialized in a series of applications that encompass the complete IVF journey. Life Whisperer aims to improve IVF success rates at every point and, as a result, reduce time-to-pregnancy, making IVF more affordable and accessible to patients globally. 
 
@@ -87,7 +85,7 @@ Presagen has a unique model of engagement whereby it co-creates AI software with
 
 >Presagen Co-Founder Dr Don Perugini says “this is our way of mobilising data for the benefit of both institutes and patients that would otherwise remain in the clutches of individual institutes where it is of little value. This allows us to create effective AI and share back the value with data contributors whilst solving critical image-based medical diagnostics problems.” 
 
-How ?
+**How ?**
 
  Life Whisperer is delivered to clinics via a scalable web-based tool and can be easily accessed on-demand by any clinic globally. 
 
@@ -104,6 +102,7 @@ In a recent clinical study of 598 patients Life Whisperer performed over 30% bet
 
 
 **Embryo Evaluation and Selection Process using Life Whisper**
+
 A blastocyst (A blastocyst is a cluster of dividing cells made by a fertilized egg.) stage embryo is imaged on Day 5 after IVF.
 The image is then drag-and-dropped onto the Life Whisperer website.
 A sequence of validated AI systems then run. Using object detection, and focusing on different regions of the image, there are two AI scores that are displayed
@@ -152,26 +151,26 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 2. [Life Whisperer Genetics](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) -  Sensitivity for euploid embryos ~65-95%
 
 
- 3. [25 % incereased accuracy for preganacy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphogial grading 
+ 3. [25 % incereased accuracy for preganacy predication](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) compared to standard morphogial grading.
                      
 
 4. [12% reduction in cycles to acheiver preganancy](https://www.rbmojournal.com/article/S1472-6483(22)00523-5/fulltext) compared with standard morphological greading using novel simulated cohort ranking method.
 
 5. [82% Probability of selecting  a genetically normal embryo](https://academic.oup.com/humrep/article/37/8/1746/6604228?login=false) which was 26.4% more effective than using random ranking, and ∼13–19% more effective than using the Gardner score. 
 
-6. [Life Whisper Genetics is predctive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an AUC/ROC of 0.69. 
+6. [Life Whisper Genetics is predctive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an [AUC/ROC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=AUC%20stands%20for%20%22Area%20under,across%20all%20possible%20classification%20thresholds.) of 0.69. 
 
 7. [**Combined** use of Viability and Gentics AI can **double the reduction in time to pregrancy**](https://www.fertstert.org/article/S0015-0282(22)00861-5/fulltext)
 
 **AiVF**
-1. [The accuracy of EMA](https://aivf.co/wp-content/uploads/2023/07/Fertility-2023-AIVF-Abstracts.pdf) (EMA by AIVF™ is an AI-powered platform), which uses a convolutional neural network (CNN) with ResNet50 backbone to assess embryo quality and developmental competence, AUC value is 0.62.
+1. [The accuracy of EMA](https://aivf.co/wp-content/uploads/2023/07/Fertility-2023-AIVF-Abstracts.pdf) (EMA by AiVF an AI-powered platform), which uses a convolutional neural network (CNN) with ResNet50 backbone to assess embryo quality and developmental competence, AUC value is 0.62.
 2. Embryo evaluation performance time is 30.9 seconds per embryo.
 
 **Fairtility**
-1. [Blastocyst prediction accuracy of 96% and 73% prediction accuracy for implantation prediction](https://info.fairtility.com/hubfs/Abstract%20Book/Fairtility%20Abstract%20Book%208.0%20October%2025th.pdf)
-2. Increases Embroyologist efficency by 33%
-3. Increases capacity of Cycles embryoligist can treat by 50%
-4. Reduction of 41% of time required per cycle
+1. [Blastocyst prediction accuracy of 96% and 73% prediction accuracy for implantation prediction](https://info.fairtility.com/hubfs/Abstract%20Book/Fairtility%20Abstract%20Book%208.0%20October%2025th.pdf).
+2. Increases Embroyologist's efficency by 33%.
+3. Increases capacity of Cycles embryoligist can treat by 50%.
+4. Reduction of 41% of time required per cycle.
 
 **ALife**
 
@@ -181,23 +180,25 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 -   Three-model (ResNet18) -  AUC 0.75
 -   Six-model (ResNet18 and EfficientNet-b1) - AUC 0.74
 
-2.  [The clinical pregnancy rate (CPR) of the embryo selected by machine learning model was 62.1%](https://www.alifehealth.com/research/clinical-evaluation-of-a-machine-learning-model-for-embryo-selection-a/)
+2.  [The clinical pregnancy rate (CPR) of the embryo selected by machine learning model is 62.1%](https://www.alifehealth.com/research/clinical-evaluation-of-a-machine-learning-model-for-embryo-selection-a/)
 
-3. [% IVF predictions](https://www.alifehealth.com/success-predictor/) - Predicted chance of having a baby with IVF in the first three cycles considering factors like  your age, BMI, fertility diagnosis, hormone levels, and prior birth history. For example 58% with first IVF Cycle, 79% with second IVF cycle, 88% with third IVF Cycle
+3. [% IVF predictions](https://www.alifehealth.com/success-predictor/) - Predicted chance of having a baby with IVF in the first three cycles considering factors like age, BMI, fertility diagnosis, hormone levels, and prior birth history. For example, 58% with first IVF Cycle, 79% with second IVF cycle, 88% with third IVF Cycle
    
 
 
-**Life Whsisperer: Commecial benefits**
+**Life Whsisperer Benefits**
 
-- Cost Saving from improved lab effiency and standardization
+**Commecial benefits for Clincs**:
 
-- Reduction in time to pregnancy for patients - allowing risk based pricing model
+- Cost Saving from improved lab effiency and standardization.
 
-- Increased patient demands through better success rates
+- Reduction in time to pregnancy for patients - allowing risk based pricing model.
 
-- Higher revenue potential through by servicing more patients - increased success and effiency
+- Increased patient demands through better success rates.
 
-Benefits for Patients : Driving Patient Transperancy
+- Higher revenue potential through by servicing more patients - increased success and effiency.
+
+**Benefits for Patients : Driving Patient Transperancy**
 
 - Helps build transperancy with Patients around embryo transfer decisions
 
@@ -208,27 +209,27 @@ Benefits for Patients : Driving Patient Transperancy
 
 
 
-**What other Competitavie Products are offering (not offered by Life Whsiperer)?**
+**What other Companies are offering (not offered by Life Whsiperer)?**
 
-AiVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction
+AiVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction.
 
-Faritility - Chole (Cultivating Human Life through Optimal Embryos) - Multiple embryo transfer pregnancy prediction
+Faritility - Chole (Cultivating Human Life through Optimal Embryos) - Multiple embryo transfer pregnancy prediction.
 
-ALife - IVF % Sucess Prdiction Calculator
+ALife - % IVF Sucess Prdiction Calculator. 
 
-**Distinctive Features offered by Life Whisperer compared to Competition :**
+**Distinctive Features offered by Life Whisperer compared to Ohter Companies :**
 1.  Gentics AI Score (except Alife) 
-2.  Faster results for decision making (within 10 secs) for Embryologists
+2.  Faster results for decision making (within 10 secs) for Embryologists.
 3.  Upcoming feature - Endometrial Receptivity - AI can analyze transvaginal ultrasound images to assist with decision around whether to transfer embryo.
 4. Upcoming - Oocyte (An oocyte is an immature egg) grading
 5. Presagen’s patent-pending approach, called [Decentralized AI Training](https://www.presagen.com/news/the-new-face-of-ai-presagens-federated-learning-algorithm-creates-higher-performing-ai-than-traditional-centralized-learning), has AI traveling to the data rather than data traveling to the AI.
 
-**What are suggestions for Life Whisperer**
+**What are suggestions for Life Whisperer ?**
 
 Provide comprehensive AI platform for IVF this includes
-- Planning and Preparing Patients for IVF
-- Sperm Analysis and Sperm selection
-- Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period
+- Planning and Preparing Patients for IVF.
+- Sperm Analysis and Sperm selection.
+- Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period.
  
  Currently, Presagen is using Pytorch. The other option could have been Tensoflow. [Compared Tesnsorflow with Pytorch](https://viso.ai/deep-learning/pytorch-vs-tensorflow/#:~:text=In%20general%2C%20TensorFlow%20and%20PyTorch,needed%20in%20the%20neural%20network.), but could not find any compelling reasons for using Tensorflow for Presagen's Life Whisperer application.
  
@@ -260,5 +261,5 @@ In the end, the utility of tools to build AI products is only as good as your ab
 
 - [Podcast interview with Dr Michelle Perugini](https://www.experienceadelaide.com.au/blog/michelle-perugini-podcast-cv/)
 
--   [The Lancet Digital Health - Enhancing the success of IVF with artificial intelligence](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00235-7/fulltext)
+-   pus[The Lancet Digital Health - Enhancing the success of IVF with artificial intelligence](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00235-7/fulltext)
 
