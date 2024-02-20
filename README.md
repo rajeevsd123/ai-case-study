@@ -6,17 +6,23 @@ For **Dr Michelle Perugini**, her own struggle with fertility was a motivation f
 
 The company she co-founded, [Presagen]( https://www.presagen.com/) alongwith Dr. Don Perugini and Dr. Jonathan Hall in 2016.
 
-Presagen has raised a total of $5.5M in funding over 3 rounds. Their latest funding was raised on Aug 1, 2021 from a Seed round
+Presagen has raised a total of $5.5M in funding over 3 rounds. Their latest funding was raised on Aug 1, 2021 from a Seed round.
 Presagen is funded by 3 investors. Morgan Stanley and Jungle Capital are the most recent investors. The third investor is 3Lines.
 
-[Life Whisperer]( https://www.lifewhisperer.com/) is subsidiary of Presagen  has raised a total of A$4.5M in funding over 1 round. This was a Seed round raised on Nov 6, 2018.
+[Life Whisperer]( https://www.lifewhisperer.com/) is subsidiary of Presagen  has raised a total of $4.5M in funding over 1 round. This was a Seed round raised on Nov 6, 2018.
 Life Whisperer is funded by 3 investors. 3Lines and Department of State Development South Australia are the most recent investors.
 
 
 
-Competitors for Life Whsiprer are [AIVF](https://aivf.co/), [Fairtility](https://fairtility.com/), [Alife](https://www.alifehealth.com/) 
+The other major companies in the field are [AiVF](https://aivf.co/), [Fairtility](https://fairtility.com/), [Alife](https://www.alifehealth.com/) 
 
-The field of fertility treatments is experiencing a surge in demand, fueled by several significant factors. A shift towards starting families at a later age, the increasing number of same-sex couples seeking assistance, and concerning studies revealing a decline in male fertility are all contributing to this trend. According to the Pew Research Center, the use of fertility treatments to assist with the birth process in the US has more than tripled from 1996 to 2015.
+- **AiVF** has raised $25M. AiVF has 2 investors including 166 2nd Financial Services and Insight Partners. AiVF closed its last funding round on Jun 22, 2022 from a Series A round. Founded in 2018 (Israel)
+
+ - **Fairtility** has raised $18.5M. Fairtility has 2 investors including Nacre Capital and Gurnet Point Capital.Fairtility closed its last funding round on May 23, 2022 from a Series A. Founded in 2019 (Israel)
+
+- **Alife** has raised $31.5M.Alife closed its last funding round on Mar 22, 2022 from a Series A round. Alife has 13 investors including Farvatn Venture and Union Square Ventures. Founded in 2020 (USA)
+
+The field of fertility treatments is experiencing a surge in demand, fueled by several significant factors. A shift towards starting families at a later age, the increasing number of same-sex couples seeking assistance, and concerning studies revealing a decline in male fertility are all contributing to this trend. According to the [Pew Research Center](https://www.pewresearch.org/short-reads/2018/07/17/a-third-of-u-s-adults-say-they-have-used-fertility-treatments-or-know-someone-who-has/), the use of fertility treatments to assist with the birth process in the US has more than tripled from 1996 to 2015.
 
 There are 3 main types of [fertility treatment:](https://www.nhs.uk/conditions/infertility/treatment/)
    - Medicines
@@ -140,6 +146,7 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 **Metrics :**
 
+**Life Whsiperer**
 1. [Life Whisperer Viability](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) - Sensitivity for viable embryos ~70-90%
 
 2. [Life Whisperer Genetics](https://www.lifewhisperer.com/wp-content/uploads/2023/03/ISAR23-Presagen-LifeWhisperer-AI-Enhanced-Fertility-Feb23.pdf) -  Sensitivity for euploid embryos ~65-95%
@@ -155,6 +162,30 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 6. [Life Whisper Genetics is predctive of live birth](https://www.fertstert.org/article/S0015-0282(22)00864-0/fulltext): The genetics AI score positively correlated with the probability of live birth, which increased 3-fold from the lowest (14.5%) to the highest (47.7%) scores. The AI was also predictive of live birth, with an AUC/ROC of 0.69. 
 
 7. [**Combined** use of Viability and Gentics AI can **double the reduction in time to pregrancy**](https://www.fertstert.org/article/S0015-0282(22)00861-5/fulltext)
+
+**AiVF**
+1. [The accuracy of EMA](https://aivf.co/wp-content/uploads/2023/07/Fertility-2023-AIVF-Abstracts.pdf) (EMA by AIVF™ is an AI-powered platform), which uses a convolutional neural network (CNN) with ResNet50 backbone to assess embryo quality and developmental competence, AUC value is 0.62.
+2. Embryo evaluation performance time is 30.9 seconds per embryo.
+
+**Fairtility**
+1. [Blastocyst prediction accuracy of 96% and 73% prediction accuracy for implantation prediction](https://info.fairtility.com/hubfs/Abstract%20Book/Fairtility%20Abstract%20Book%208.0%20October%2025th.pdf)
+2. Increases Embroyologist efficency by 33%
+3. Increases capacity of Cycles embryoligist can treat by 50%
+4. Reduction of 41% of time required per cycle
+
+**ALife**
+
+1.[Sensitivity analysis of an embryo grading artificial intelligence model](https://www.alifehealth.com/research/sensitivity-analysis-of-an-embryo-grading-artificial-intelligence-model-to/)
+
+    a. A single model (ResNet18) - AUC 0.73
+    b. A three-model (ResNet18) -  AUC 0.75
+    c. A six-model (ResNet18 and EfficientNet-b1) - AUC 0.74
+
+2.  [The clinical pregnancy rate (CPR) of the embryo selected by machine learning model was 62.1%](https://www.alifehealth.com/research/clinical-evaluation-of-a-machine-learning-model-for-embryo-selection-a/)
+
+3. [% IVF predictions](https://www.alifehealth.com/success-predictor/) - Predicted chance of having a baby with IVF in the first three cycles considering factors like  your age, BMI, fertility diagnosis, hormone levels, and prior birth history. For example 58% with first IVF Cycle, 79% with second IVF cycle, 88% with third IVF Cycle
+   
+
 
 **Life Whsisperer: Commecial benefits**
 
@@ -179,9 +210,11 @@ Benefits for Patients : Driving Patient Transperancy
 
 **What other Competitavie Products are offering (not offered by Life Whsiperer)?**
 
-AIVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction
+AiVF Provides Day-3 – an early-stage embryo evaluation for clinical pregnancy prediction
 
 Faritility - Chole (Cultivating Human Life through Optimal Embryos) - Multiple embryo transfer pregnancy prediction
+
+ALife - IVF % Sucess Prdiction Calculator
 
 **Distinctive Features offered by Life Whisperer compared to Competition :**
 1.  Gentics AI Score (except Alife) 
@@ -222,5 +255,7 @@ In the end,the utility of tools to build AI products is only as good as your abi
 -   [Will Artificial Intelligence Change the Future of IVF?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9666597/#B1)
 
 - [Artificial intelligence (AI) technology can predict human embryo viability across multiple laboratories with varying demographics with high accuracy and reproducibility.](https://www.eshre.eu/cmsearchableprogrammeV15/conferencemanager/programme/personid/anonymous/VIE2019/industry/0b043bad6d30b7641c8df4bb4ba50591f39d2bfe#!abstractdetails/0000571500)
+
+- [Sensitivity analysis of an embryo grading artificial intelligence model](https://academic.oup.com/humrep/article/37/Supplement_1/deac107.166/6620106?searchresult=1&login=false)
 
 - [Podcast interview with Dr Michelle Perugini](https://www.experienceadelaide.com.au/blog/michelle-perugini-podcast-cv/)
