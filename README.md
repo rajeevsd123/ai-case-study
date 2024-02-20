@@ -261,5 +261,5 @@ In the end, the utility of tools to build AI products is only as good as your ab
 
 - [Podcast interview with Dr Michelle Perugini](https://www.experienceadelaide.com.au/blog/michelle-perugini-podcast-cv/)
 
--   pus[The Lancet Digital Health - Enhancing the success of IVF with artificial intelligence](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00235-7/fulltext)
+-  [The Lancet Digital Health - Enhancing the success of IVF with artificial intelligence](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00235-7/fulltext)
 
