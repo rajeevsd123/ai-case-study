@@ -109,7 +109,7 @@ The image is then drag-and-dropped onto the Life Whisperer website.
 A sequence of validated AI systems then run. Using object detection, and focusing on different regions of the image, there are two AI scores that are displayed
 In real time, within 10 to 15 seconds, the platform returns a report which helps the embryologist to select the most viable embryos for implantation. The report also gives patients a window into the assessment process being used to guide their treatment.
 
-Combined use of **two AI algorithms** for evaluating embryo quality
+Combined use of **[two AI algorithms](https://www.lifewhisperer.com/combined-use-of-two-ai-algorithms-for-evaluating-embryo-quality-improves-selection-of-embryos-leading-to-clinical-pregnancy/)** for evaluating embryo quality
 
 - **Life Whisperer Viability** gives a score, Viability Score, from 0 to 10, which is related to the likelihood the embryo will lead to a clinical pregnancy. This means, a foetal heartbeat is measured at the 6 week ultrasound scan. Each score tells you about the likelihood of a pregnancy. For low scores, there is less chance (but still some chance) of a pregnancy. This is useful for expectation setting and planning with the patient.
 
@@ -177,9 +177,9 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 1.[Sensitivity analysis of an embryo grading artificial intelligence model](https://www.alifehealth.com/research/sensitivity-analysis-of-an-embryo-grading-artificial-intelligence-model-to/)
 
-    a. A single model (ResNet18) - AUC 0.73
-    b. A three-model (ResNet18) -  AUC 0.75
-    c. A six-model (ResNet18 and EfficientNet-b1) - AUC 0.74
+-   Single model (ResNet18) - AUC 0.73
+-   Three-model (ResNet18) -  AUC 0.75
+-   Six-model (ResNet18 and EfficientNet-b1) - AUC 0.74
 
 2.  [The clinical pregnancy rate (CPR) of the embryo selected by machine learning model was 62.1%](https://www.alifehealth.com/research/clinical-evaluation-of-a-machine-learning-model-for-embryo-selection-a/)
 
@@ -234,7 +234,7 @@ Provide comprehensive AI platform for IVF this includes
  
 
 
-In the end,the utility of tools to build AI products is only as good as your ability to target and understand the context in which you’re applying the AI – and how to best do that is an art form.
+In the end, the utility of tools to build AI products is only as good as your ability to target and understand the context in which you’re applying the AI – and how to best do that is an art form.
 
 > Dr. Michelle Perugini says that "AI is not all science — it also requires art".
 
