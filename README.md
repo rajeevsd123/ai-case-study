@@ -52,7 +52,7 @@ The global [In vitro fertilization market size](https://www.grandviewresearch.co
 
 Although IVF has been a widely used technique for over four decades, its outcomes remain unpredictable. Furthermore, access to fertility care remains dishearteningly low. In developed markets such as the United States, only 2% of individuals grappling with infertility have used IVF as a solution.
 
-**Challengnes with IVF**
+**Challenges with IVF**
 
 > When we had our first cycle of IVF we just assumed it would work. You read all those 'miracle baby' stories in the media but you rarely hear about the people who weren't successful.
 
@@ -198,13 +198,13 @@ With a distributed cloud solution, the AWS cloud offers a secure, reliable, and 
 
 - Higher revenue potential through by servicing more patients - increased success and efficiency.
 
-**Benefits for Patients : Driving Patient Transparency**
+**Benefits for Patients: Driving Patient Transparency**
 
-- Helps build transparency with patients around embryo transfer decisions
+- Helps build transparency with patients around embryo transfer decisions.
 
-- Reduced number of IVF cycles
+- Reduced number of IVF cycles.
 
-- Less cycles means  less pain, trauma, and stress
+- Less cycles means  less pain, trauma, and stress.
 
 
 
