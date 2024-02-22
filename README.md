@@ -217,7 +217,7 @@ Faritility - Chole (Cultivating Human Life through Optimal Embryos) - Multiple e
 
 ALife - % IVF Success Prediction Calculator. 
 
-**Distinctive Features offered by Life Whisperer compared to Ohter Companies :**
+**Distinctive features offered by Life Whisperer compared to other companies :**
 1.  Genetics AI Score (except Alife) 
 2.  Faster results for decision making (within 10 secs) for Embryologists.
 3.  Upcoming feature - Endometrial Receptivity - AI can analyze transvaginal ultrasound images to assist with decision around whether to transfer embryo.
