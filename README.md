@@ -16,11 +16,11 @@ Life Whisperer is funded by 3 investors. 3Lines and Department of State Developm
 
 The other major companies in the field are [AiVF](https://aivf.co/), [Fairtility](https://fairtility.com/), [Alife](https://www.alifehealth.com/) 
 
-- **AiVF** has raised $25M. AiVF has 2 investors including 166 2nd Financial Services and Insight Partners. AiVF closed its last funding round on Jun 22, 2022 from a Series A round. Founded in 2018 (Israel)
+- **AiVF** has raised $25M. AiVF has 2 investors including 166 2nd Financial Services and Insight Partners. AiVF closed its last funding round on Jun 22, 2022 from a Series A round. Founded in 2018 (Israel).
 
- - **Fairtility** has raised $18.5M. Fairtility has 2 investors including Nacre Capital and Gurnet Point Capital. Fairtility closed its last funding round on May 23, 2022 from a Series A. Founded in 2019 (Israel)
+ - **Fairtility** has raised $18.5M. Fairtility has 2 investors including Nacre Capital and Gurnet Point Capital. Fairtility closed its last funding round on May 23, 2022 from a Series A. Founded in 2019 (Israel).
 
-- **Alife** has raised $31.5M. Alife closed its last funding round on Mar 22, 2022 from a Series A round. Alife has 13 investors including Farvatn Venture and Union Square Ventures. Founded in 2020 (USA)
+- **Alife** has raised $31.5M. Alife closed its last funding round on Mar 22, 2022 from a Series A round. Alife has 13 investors including Farvatn Venture and Union Square Ventures. Founded in 2020 (USA).
 
 The field of fertility treatments is experiencing a surge in demand, fueled by several significant factors. A shift towards starting families at a later age, the increasing number of same-sex couples seeking assistance, and concerning studies revealing a decline in male fertility are all contributing to this trend. According to the [Pew Research Center](https://www.pewresearch.org/short-reads/2018/07/17/a-third-of-u-s-adults-say-they-have-used-fertility-treatments-or-know-someone-who-has/), the use of fertility treatments to assist with the birth process in the US has more than tripled from 1996 to 2015.
 
