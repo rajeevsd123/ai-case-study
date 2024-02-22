@@ -9,7 +9,7 @@ The company she co-founded, [Presagen]( https://www.presagen.com/) along with Dr
 Presagen has raised a total of $5.5M in funding over 3 rounds. Their latest funding was raised on Aug 1, 2021 from a Seed round.
  Presagen is funded by 3 investors. Morgan Stanley and Jungle Capital are the most recent investors. The third investor is 3Lines.
 
-[Life Whisperer]( https://www.lifewhisperer.com/) is subsidiary of Presagen  has raised a total of $4.5M in funding over 1 round. This was a Seed round raised on Nov 6, 2018.
+[Life Whisperer]( https://www.lifewhisperer.com/) is subsidiary of Presagen and has raised a total of $4.5M in funding over 1 round. This was a Seed round raised on Nov 6, 2018.
 Life Whisperer is funded by 3 investors. 3Lines and Department of State Development South Australia are the most recent investors.
 
 
