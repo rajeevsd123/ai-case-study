@@ -226,7 +226,7 @@ ALife - % IVF Success Prediction Calculator.
 
 **What are suggestions for Life Whisperer ?**
 
-Provide a comprehensive AI platform for IVF this includes
+Provide a comprehensive AI platform for IVF, this includes
 - Planning and Preparing Patients for IVF.
 - Sperm Analysis and Sperm selection.
 - Predictive Analysis for frozen embryos including recommendation for frozen embryo warming period.
