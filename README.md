@@ -32,7 +32,7 @@ There are 3 main types of [fertility treatment:](https://www.nhs.uk/conditions/i
 -   Assisted conception –
     - Intrauterine Insemination (IUI)
 
-        IUI is a simple office procedure that places sperm, collected from the partner and processed in the laboratory, into the uterine cavity
+        IUI is a simple office procedure that places sperm, collected from the partner and processed in the laboratory, into the uterine cavity.
 
     - In Vitro Fertilization (IVF)
 
@@ -59,10 +59,10 @@ Although IVF has been a widely used technique for over four decades, its outcome
 - **Decision making about embryos, their disposition**: Currently, an embryologist uses a standard grading system to assess the appearance of each embryo under the microscope. Two embryologists could score an embryo differently based on their experience. Different systems had previously been proposed to refine this but, so far, none of them has significantly improved embryo selection.
     >“There is no real standardization of embryo assessment,” says Dr. Nikica Zaninovic, the director of the embryology lab at Weill Cornell Medicine
 
--   **Increased Risk of multiple pregnancies**: [Multiple births](https://www.cdc.gov/art/key-findings/multiple-births.html#:~:text=Multiple%20births%E2%80%94the%20delivery%20of,one%20embryo%20during%20the%20procedure.) primarily result from transfer of more than one embryo during the procedure
+-   **Increased Risk of multiple pregnancies**: [Multiple births](https://www.cdc.gov/art/key-findings/multiple-births.html#:~:text=Multiple%20births%E2%80%94the%20delivery%20of,one%20embryo%20during%20the%20procedure.) primarily result from transfer of more than one embryo during the procedure.
 
 - **Low Success rate**:
-        - Live births per first embryo transfer is 41.4% as per [SART](https://www.sartcorsonline.com/rptCSR_PublicMultYear.aspx). Currently, birth rates from IVF vary widely, from 31% for women age 35 and under to around 3% for women age 42 and older when using fresh embryos, according to the Centers for Disease Control and Prevention [CDC](https://nccd.cdc.gov/drh_art/rdPage.aspx?rdReport=DRH_ART.ClinicInfo&rdRequestForward=True&ClinicId=9999&ShowNational=1)
+        - Live births per first embryo transfer is 41.4% as per [SART](https://www.sartcorsonline.com/rptCSR_PublicMultYear.aspx). Currently, birth rates from IVF vary widely, from 31% for women age 35 and under to around 3% for women age 42 and older when using fresh embryos, according to the Centers for Disease Control and Prevention [CDC](https://nccd.cdc.gov/drh_art/rdPage.aspx?rdReport=DRH_ART.ClinicInfo&rdRequestForward=True&ClinicId=9999&ShowNational=1).
        
 - Due to low success rate, many women ultimately have to go through **multiple rounds of IVF**.
 
